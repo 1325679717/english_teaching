@@ -55,12 +55,12 @@
 
 ### 模块 2：锁定 5 大基本句型骨架（抓主干）
 
-无论长句多复杂，主干一定是这 5 种之一（详细例句参见 [`english_sentence_learning_guide.md`](file:///Users/mayantao/Documents/python-playground/english_teaching/english_sentence_learning_guide.md)）：
-1. **主 + 谓 (S + V)**：*The plane landed.*（飞机降落了。）
-2. **主 + 谓 + 宾 (S + V + O)**：*I made a mistake.*（我犯了个错误。）
-3. **主 + 系 + 表 (S + V + P)**：*The coffee tastes bitter.*（咖啡尝起来很苦。）
-4. **主 + 谓 + 间宾 + 直宾 (S + V + IO + DO)**：*He sent me a message.*（他给我发了条信息。）
-5. **主 + 谓 + 宾 + 宾补 (S + V + O + C)**：*She found the movie boring.*（她觉得这电影无聊。）
+无论长句多复杂，主干一定是这 5 种之一（详细例句参见 [english_sentence_learning_guide.md](file:///Users/mayantao/Documents/python-playground/english_teaching/guides/english_sentence_learning_guide.md)）：
+1. **主 + 谓 (S + V)**：*It works.*（这招管用 / 机器能运转。）
+2. **主 + 谓 + 宾 (S + V + O)**：*I get your point.*（我明白你的意思了。）
+3. **主 + 系 + 表 (S + V + P)**：*That sounds like a plan.*（听起来是个好主意 / 就这么办。）
+4. **主 + 谓 + 双宾 (S + V + IO + DO)**：*Could you do me a favor?*（能帮我个忙吗？）
+5. **主 + 谓 + 宾 + 宾补 (S + V + O + C)**：*You drive me crazy.*（你快把我逼疯了。）
 
 ---
 

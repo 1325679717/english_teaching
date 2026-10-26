@@ -39,59 +39,75 @@
 
 刚开始接触一个句子时，先**忽略修饰语**，一眼把最核心的动作和主体揪出来：
 
-### 5 大基本句型全景透视表
+### 5 大基本句型全景透视表（地道实战版）
 
-| 句型结构 | 语法成分代号 | 核心逻辑与语义 | 极简经典例句 | 核心动词特点 |
-| :--- | :--- | :--- | :--- | :--- |
-| **主 + 谓** | **S + V** | 谁 + 做了什么（动作不涉及第三方） | *Time flies.*（时光飞逝。） | 不及物动词（vi.），自身意思完整 |
-| **主 + 谓 + 宾** | **S + V + O** | 谁 + 做了什么 + 针对谁/什么 | *I love coffee.*（我爱咖啡。） | 单及物动词（vt.），必须有动作承受者 |
-| **主 + 系 + 表** | **S + V + P** | 谁 + 是/处于 + 什么状态/特征 | *The soup smells good.*（汤闻起来很香。） | 连系动词（be, smell, look, feel 等） |
-| **主 + 谓 + 间宾 + 直宾** | **S + V + IO + DO** | 谁 + 给谁(间宾) + 什么东西(直宾) | *She gave me a book.*（她给了我一本书。） | 双及物动词（give, send, buy, tell 等） |
-| **主 + 谓 + 宾 + 宾补** | **S + V + O + C** | 谁 + 让某人/某物 + 处于什么状态/做什么 | *The news made him happy.*（这消息让他很开心。） | 宾语后需补充说明（make, keep, find, see 等） |
+| 句型结构 | 典型母句 | 核心语法看点与骨架拆解 | 换词仿写示例（1 句变 3 句） |
+| :--- | :--- | :--- | :--- |
+| **1. 主 + 谓 (S + V)** | **It works.**<br>*(这招管用 / 机器能运转)* | 主语 `It` + 不及物动词 `works`。动词自身意思完整，无需接宾语。 | *Time flies.*（时间飞逝。）<br>*Everything changed.*（一切都变了。） |
+| **2. 主 + 谓 + 宾 (S + V + O)** | **I get your point.**<br>*(我明白你的意思)* | 动作 `get` 直接作用在对象 `your point` 上。注意体会熟词 `get` 的地道语义。 | *I need a break.*（我需要休息一下。）<br>*He missed the train.*（他错过了火车。） |
+| **3. 主 + 系 + 表 (S + V + P)** | **That sounds like a plan.**<br>*(听起来是个好主意)* | `sounds` 是感官系动词（连接而非动作），后接介词短语 `like a plan` 说明主语状态。 | *You look tired.*（你看起来很累。）<br>*The coffee tastes bitter.*（这咖啡尝起来很苦。） |
+| **4. 主 + 谓 + 双宾 (S + V + IO + DO)** | **Could you do me a favor?**<br>*(能帮我个忙吗？)* | 动词 `do` 后面接“人（间接宾语 `me`）”+“物（直接宾语 `a favor`）”。 | *She sent me a message.*（她给我发了条消息。）<br>*Pass me the salt.*（把盐递给我。） |
+| **5. 主 + 谓 + 宾 + 宾补 (S + V + O + C)** | **You drive me crazy.**<br>*(你快把我逼疯了)* | 光说 `You drive me` 意思不完整，必须加上补语 `crazy` 补充说明宾语 `me` 处于什么状态。 | *Keep the door open.*（让门开着。）<br>*They painted the wall white.*（他们把墙刷成了白色。） |
 
 ---
 
-### 5 大句型逐一深度拆解与实例
+### 5 大句型逐一深度拆解与实战透视
 
 #### ① 主 + 谓 (Subject + Verb)
-- **逻辑**：主语独立完成动作，不涉及其他人或物。
-- **例句**：
-  - *The sun rises.*（太阳升起。）
-  - *She laughed.*（她笑了。）
-  - *The baby is sleeping peacefully in the crib.*  
-    👉 **抓主干**：忽略副词 `peacefully` 和介词短语 `in the crib`，主干就是 **The baby is sleeping (S + V)**。
+- **核心逻辑**：主语独立完成动作，不涉及第三方承受者。
+- **典型母句**：  
+  * **`It works.`**（这招管用 / 机器能运转。）  
+    👉 拆解：`It` (主语) + `works` (不及物动词谓语)。不需要加任何宾语，表达就已经极其有力。
+- **换词仿写与拓展**：
+  - *Time flies.*（光阴似箭 / 时光飞逝。）
+  - *Everything changed.*（一切都改变了。）
+  - *The meeting ended.*（会议结束了。）
+  - *She laughed happily at the airport.*  
+    👉 **抓主干**：忽略副词 `happily` 和状语 `at the airport`，核心骨架依然是 **She laughed (S + V)**。
 
 #### ② 主 + 谓 + 宾 (Subject + Verb + Object)
-- **逻辑**：主语发出的动作直接作用于一个对象（宾语）。
-- **例句**：
-  - *I bought a laptop.*（我买了一台笔记本电脑。）
-  - *They cancelled the meeting yesterday morning.*  
-    👉 **抓主干**：忽略时间状语 `yesterday morning`，主干就是 **They cancelled the meeting (S + V + O)**。
+- **核心逻辑**：主语发出的动作直接作用于一个承受对象（宾语）。
+- **典型母句**：  
+  * **`I get your point.`**（我明白你的意思了。）  
+    👉 拆解：`I` (主语) + `get` (及物动词) + `your point` (宾语)。母语者口语中极少用正式的 *I understand your opinion*，而是用熟词 `get`。
+- **换词仿写与拓展**：
+  - *I need a break.*（我需要休息一下。）
+  - *He missed the train.*（他错过了火车。）
+  - *We solved the problem yesterday morning.*  
+    👉 **抓主干**：忽略时间状语 `yesterday morning`，主干就是 **We solved the problem (S + V + O)**。
 
 #### ③ 主 + 系 + 表 (Subject + Linking Verb + Predicative)
-- **逻辑**：谓语不是具体“打、跑、买”等动作，而是起连接作用（be 动词或感官/状态动词），表语说明主语的身份、性质或状态。
-- **常见系动词**：`be`, `seem`, `appear`, `look`（看起来）, `sound`（听起来）, `smell`（闻起来）, `taste`（尝起来）, `feel`（感觉起来）, `become`（变得）, `stay`（保持）。
-- **例句**：
-  - *He is an architect.*（他是一名建筑师。）
-  - *This idea sounds great.*（这个主意听起来棒极了。）
-  - *The weather became surprisingly cold after the rain.*  
-    👉 **抓主干**：忽略程度副词 `surprisingly` 和状语 `after the rain`，主干就是 **The weather became cold (S + V + P)**。
+- **核心逻辑**：谓语不是具体物理动作，而是起连接说明作用；表语负责说明主语的身份、性质、感觉或状态。
+- **典型母句**：  
+  * **`That sounds like a plan.`**（听起来是个好主意 / 就这么办。）  
+    👉 拆解：`That` (主语) + `sounds` (感官系动词) + `like a plan` (介词短语作表语)。
+- **常见系动词**：`be`, `look`（看起来）, `sound`（听起来）, `smell`（闻起来）, `taste`（尝起来）, `feel`（摸/感觉起来）, `seem`（似乎）, `become`（变得）, `stay`（保持）。
+- **换词仿写与拓展**：
+  - *You look tired.*（你看起来很累。）
+  - *The coffee tastes bitter.*（这咖啡尝起来很苦。）
+  - *This solution seems reasonable.*（这个方案似乎很合理。）
 
 #### ④ 主 + 谓 + 间宾 + 直宾 (S + V + Indirect Object + Direct Object)
-- **逻辑**：“给某人某物”结构。间接宾语（IO）通常是**人**，直接宾语（DO）通常是**物**。
-- **口诀**：人前物后，如果物前人后需加介词 `to` 或 `for`（*She gave a book to me*）。
-- **例句**：
-  - *She lent me ten dollars.*（她借了我 10 美元。）
-  - *My dad bought me a new bicycle on my birthday.*  
-    👉 **抓主干**：**My dad bought me a bicycle (S + V + IO + DO)**。
+- **核心逻辑**：“给某人某物”结构。通常**人是间接宾语（IO）**，**物是直接宾语（DO）**。
+- **典型母句**：  
+  * **`Could you do me a favor?`**（能帮我个忙吗？）  
+    👉 拆解：`Could you` (情态+主语) + `do` (双及物动词) + `me` (间宾，人) + `a favor` (直宾，恩惠/忙)。
+- **口诀**：人前物后，若“物”在前则需借助介词 `to` 或 `for`（如 *Pass the salt to me*）。
+- **换词仿写与拓展**：
+  - *She sent me a message.*（她给我发了条消息。）
+  - *Pass me the salt.*（把盐递给我。）
+  - *He bought his wife some flowers.*（他给妻子买了些花。）
 
 #### ⑤ 主 + 谓 + 宾 + 宾补 (S + V + Object + Complement)
-- **逻辑**：光有宾语意思不完整，必须加上“补足语”补充说明宾语的状态、动作或身份。
-- **验证法**：宾语与宾补之间可以顺理成章地构成“逻辑上的主谓/主表关系”（如：*him happy* ➔ *he is happy*）。
-- **例句**：
-  - *We named the puppy Charlie.*（我们给小狗起名查理。➔ *The puppy is Charlie*）
-  - *Coffee keeps me awake during the night shift.*（咖啡让我在夜班保持清醒。➔ *I am awake*）
-    👉 **抓主干**：**Coffee keeps me awake (S + V + O + C)**。
+- **核心逻辑**：动作作用于宾语后，光有宾语意思不完整，必须补上一块积木说明宾语“变成了什么状态或做了什么”。
+- **典型母句**：  
+  * **`You drive me crazy.`**（你快把我逼疯了。）  
+    👉 拆解：`You` (主语) + `drive` (使役动词) + `me` (宾语) + `crazy` (形容词作宾补)。光说 `You drive me` 别人完全摸不着头脑，必须由 `crazy` 补充说明 `me` 的精神状态。
+- **验证法**：宾语与宾补在逻辑上构成“主谓”或“主表”关系（`me crazy` ➔ `I am crazy`）。
+- **换词仿写与拓展**：
+  - *Keep the door open.*（让门开着。➔ *The door is open*）
+  - *They painted the wall white.*（他们把墙刷成了白色。➔ *The wall is white*）
+  - *Coffee keeps me awake.*（咖啡让我保持清醒。➔ *I am awake*）
 
 ---
 
