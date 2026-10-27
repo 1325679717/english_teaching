@@ -1,0 +1,47 @@
+[
+  {
+    "category": "📘 核心方法论与指南",
+    "items": [
+      {
+        "title": "80/20 学习路线图",
+        "filename": "english_learning_roadmap_80_20.md",
+        "path": "guides/english_learning_roadmap_80_20.md"
+      },
+      {
+        "title": "英语句子学习核心指南",
+        "filename": "english_sentence_learning_guide.md",
+        "path": "guides/english_sentence_learning_guide.md"
+      }
+    ]
+  },
+  {
+    "category": "🧪 真实黄金句库",
+    "items": [
+      {
+        "title": "口语高频黄金真句 10 案",
+        "filename": "classic_sentence_lab_cases.md",
+        "path": "cases/classic_sentence_lab_cases.md"
+      }
+    ]
+  },
+  {
+    "category": "☕️ 《老友记》精萃微课",
+    "items": [
+      {
+        "title": "Lesson 01 · 撇清八卦与普通同事",
+        "filename": "lesson_01.md",
+        "path": "lessons/lesson_01.md"
+      }
+    ]
+  },
+  {
+    "category": "🧭 导航与总览",
+    "items": [
+      {
+        "title": "项目总览与索引 (README)",
+        "filename": "README.md",
+        "path": "README.md"
+      }
+    ]
+  }
+]

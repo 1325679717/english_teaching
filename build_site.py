@@ -138,11 +138,35 @@ def build_target(target_dir):
 
     print(f"✅ 成功构建完成！包含 {sum(len(c['items']) for c in docs_meta)} 篇讲义与文档。")
 
+def sync_to_root():
+    """Ensure root directory has index.html, style.css, app.js, lib/, data/ and .nojekyll for root-level Pages"""
+    print(f"📦 正在同步静态站点到仓库根目录: {BASE_DIR}")
+    for item in ["index.html", "style.css", "app.js", "lib"]:
+        src = os.path.join(WEB_DIR, item)
+        dst = os.path.join(BASE_DIR, item)
+        if os.path.isdir(src):
+            if os.path.exists(dst):
+                shutil.rmtree(dst)
+            shutil.copytree(src, dst)
+        elif os.path.isfile(src):
+            shutil.copy2(src, dst)
+
+    data_dir = os.path.join(BASE_DIR, "data")
+    os.makedirs(data_dir, exist_ok=True)
+    docs_meta = get_documents_metadata()
+    with open(os.path.join(data_dir, "documents.json"), "w", encoding="utf-8") as f:
+        json.dump(docs_meta, f, ensure_ascii=False, indent=2)
+
+    with open(os.path.join(BASE_DIR, ".nojekyll"), "w") as f:
+        pass
+    print("✅ 根目录同步完成！")
+
 def main():
-    # Build both dist/ (for Vercel/Cloudflare) and docs/ (for GitHub Pages /docs branch mode)
+    sync_to_root()
     build_target(DIST_DIR)
     build_target(DOCS_DIR)
-    print("\n🎉 全部打包完成！随时可推送到 GitHub 或发布至 Vercel。")
+    print("\n🎉 全部打包完成！无论 GitHub Pages 选择根目录还是 /docs，均能完美显示。")
 
 if __name__ == "__main__":
     main()
+

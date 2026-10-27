@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="theme-color" content="#ffffff">
+  <title>英语精萃微课 · 移动阅读站</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="lib/marked.min.js"></script>
+  <script src="lib/qrcode.min.js"></script>
+</head>
+<body>
+  <!-- Reading Progress Bar -->
+  <div id="progress-bar"></div>
+
+  <!-- Top App Bar -->
+  <header class="app-header">
+    <div class="header-left">
+      <button id="btn-menu" class="icon-btn" aria-label="打开目录">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="3" y1="12" x2="21" y2="12"></line>
+          <line x1="3" y1="6" x2="21" y2="6"></line>
+          <line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </button>
+      <div class="doc-header-info">
+        <h1 id="current-title">加载中...</h1>
+      </div>
+    </div>
+
+    <div class="header-right">
+      <!-- Font Size Toggle -->
+      <button id="btn-font" class="icon-btn" title="调整字体大小" aria-label="调整字号">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 19V7l5 12 5-12v12"></path>
+          <path d="M19 12h-4"></path>
+          <path d="M17 19v-7"></path>
+        </svg>
+      </button>
+
+      <!-- Theme Switcher -->
+      <button id="btn-theme" class="icon-btn" title="切换昼夜主题" aria-label="切换主题">
+        <span class="theme-icon">🌓</span>
+      </button>
+
+      <!-- QR Code Modal Button -->
+      <button id="btn-qr" class="icon-btn" title="手机扫码" aria-label="手机扫码">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="3" y="3" width="7" height="7"></rect>
+          <rect x="14" y="3" width="7" height="7"></rect>
+          <rect x="14" y="14" width="7" height="7"></rect>
+          <rect x="3" y="14" width="7" height="7"></rect>
+        </svg>
+      </button>
+
+      <!-- Refresh Button -->
+      <button id="btn-refresh" class="icon-btn" title="手动刷新" aria-label="刷新">
+        <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="23 4 23 10 17 10"></polyline>
+          <polyline points="1 20 1 14 7 14"></polyline>
+          <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- Live Sync Notification Banner -->
+  <div id="sync-toast" class="sync-toast">
+    <span class="pulse-dot"></span>
+    <span class="toast-text">已实时同步 Mac 最新修改</span>
+  </div>
+
+  <!-- Document Sidebar Drawer -->
+  <div id="drawer-overlay" class="drawer-overlay"></div>
+  <aside id="sidebar-drawer" class="sidebar-drawer">
+    <div class="drawer-header">
+      <div class="brand-title">
+        <span class="brand-icon">📚</span>
+        <div class="brand-meta">
+          <h2>英语真句实验室</h2>
+          <span id="sync-status" class="sync-status">🟢 局域网实时同步</span>
+        </div>
+      </div>
+      <button id="btn-close-drawer" class="icon-btn" aria-label="关闭侧边栏">✕</button>
+    </div>
+
+    <!-- Document Navigation List -->
+    <nav class="drawer-nav">
+      <div id="doc-nav-list" class="doc-nav-list">
+        <!-- Rendered dynamically by app.js -->
+        <div class="nav-loading">正在读取知识库...</div>
+      </div>
+    </nav>
+
+    <div class="drawer-footer">
+      <button id="btn-show-qr-mobile" class="footer-btn">
+        <span>📱 手机扫码或分享网址</span>
+      </button>
+      <div class="lan-ip-text" id="lan-ip-display">http://...</div>
+    </div>
+  </aside>
+
+  <!-- Font Adjuster Popup Sheet -->
+  <div id="font-sheet" class="font-sheet">
+    <div class="font-controls">
+      <span class="font-label">正文字号</span>
+      <button id="font-decrease" class="font-btn">A-</button>
+      <span id="font-size-val" class="font-val">17px</span>
+      <button id="font-increase" class="font-btn">A+</button>
+      <button id="font-reset" class="font-btn-reset">默认</button>
+    </div>
+  </div>
+
+  <!-- Main Article Reading View -->
+  <main class="reading-container">
+    <article id="article-content" class="markdown-body">
+      <div class="loading-placeholder">
+        <div class="spinner"></div>
+        <p>正在从电脑加载精萃讲义...</p>
+      </div>
+    </article>
+  </main>
+
+  <!-- Floating Mobile Page TOC Button -->
+  <div class="floating-controls">
+    <button id="btn-page-toc" class="floating-btn" title="本页大纲">
+      <span>📑 目录</span>
+    </button>
+    <button id="btn-back-top" class="floating-btn back-top-btn" title="回顶部">
+      <span>▲</span>
+    </button>
+  </div>
+
+  <!-- Page TOC Bottom Sheet (Mobile) -->
+  <div id="toc-overlay" class="toc-overlay"></div>
+  <div id="toc-sheet" class="toc-sheet">
+    <div class="toc-sheet-header">
+      <h3>📑 本页大纲与快速跳转</h3>
+      <button id="btn-close-toc" class="icon-btn">✕</button>
+    </div>
+    <div id="toc-sheet-content" class="toc-sheet-content">
+      <!-- Extracted dynamically from page headings -->
+    </div>
+  </div>
+
+  <!-- QR Code Modal (for Desktop or Sharing) -->
+  <div id="qr-modal" class="modal-overlay">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3>📱 手机扫码即刻阅读</h3>
+        <button id="btn-close-modal" class="icon-btn">✕</button>
+      </div>
+      <div class="modal-body">
+        <div id="qrcode-box" class="qrcode-box"></div>
+        <p class="qr-tip">用手机自带相机或微信扫描上方二维码</p>
+        <div class="qr-url-box">
+          <input type="text" id="qr-url-input" readonly>
+          <button id="btn-copy-url">复制</button>
+        </div>
+        <p class="qr-subtip">⚠️ 请确保手机与 Mac 连接在同一个 Wi-Fi 网络下</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
