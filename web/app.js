@@ -9,6 +9,7 @@ const state = {
   fontSize: 17,
   theme: 'light',
   categories: [],
+  isLocalServer: true,
   serverInfo: {
     ip: '127.0.0.1',
     port: 8000,
@@ -114,25 +115,35 @@ function setFontSize(size) {
 }
 
 /**
- * Fetch Server LAN Info & Generate QR Code
+ * Fetch Server LAN Info & Generate QR Code (Dual-mode: dynamic server vs cloud static)
  */
 async function fetchServerInfo() {
   try {
-    const res = await fetch('/api/info');
-    if (res.ok) {
+    const res = await fetch('/api/info').catch(() => null);
+    if (res && res.ok) {
       const data = await res.json();
       state.serverInfo = data;
+      state.isLocalServer = true;
       elements.lanIpDisplay.textContent = data.url;
       elements.qrUrlInput.value = data.url;
       renderQrCode(data.url);
+      const statusEl = document.getElementById('sync-status');
+      if (statusEl) statusEl.textContent = '🟢 局域网实时同步';
+      return;
     }
   } catch (err) {
-    console.warn('Failed to fetch server info:', err);
-    const fallbackUrl = window.location.origin;
-    elements.lanIpDisplay.textContent = fallbackUrl;
-    elements.qrUrlInput.value = fallbackUrl;
-    renderQrCode(fallbackUrl);
+    // Ignore and proceed to static mode
   }
+
+  // Cloud static mode fallback (GitHub Pages / Vercel / Netlify)
+  state.isLocalServer = false;
+  const currentUrl = window.location.href.split('#')[0];
+  state.serverInfo = { url: currentUrl };
+  elements.lanIpDisplay.textContent = currentUrl;
+  elements.qrUrlInput.value = currentUrl;
+  renderQrCode(currentUrl);
+  const statusEl = document.getElementById('sync-status');
+  if (statusEl) statusEl.textContent = '☁️ 云端永久在线';
 }
 
 /**
@@ -157,20 +168,30 @@ function renderQrCode(url) {
 }
 
 /**
- * Fetch and render document list
+ * Fetch and render document list (Dual-mode: API vs static JSON)
  */
 async function loadDocuments() {
   try {
-    const res = await fetch('/api/documents');
-    if (!res.ok) throw new Error('Network error');
-    const categories = await res.json();
+    let categories = null;
+
+    // 1. Try dynamic API
+    const res = await fetch('/api/documents').catch(() => null);
+    if (res && res.ok) {
+      categories = await res.json();
+    } else {
+      // 2. Fallback to static documents.json
+      const staticRes = await fetch('data/documents.json').catch(() => null);
+      if (staticRes && staticRes.ok) {
+        categories = await staticRes.json();
+      }
+    }
+
+    if (!categories) throw new Error('No categories available');
+
     state.categories = categories;
     renderDocumentNav(categories);
 
     // Determine which document to open initially
-    // 1. From URL hash (#doc=...)
-    // 2. From localStorage
-    // 3. Default to 'guides/english_sentence_learning_guide.md'
     let initialDoc = '';
     const hashMatch = window.location.hash.match(/#doc=([^&]+)/);
     if (hashMatch && hashMatch[1]) {
@@ -191,7 +212,7 @@ async function loadDocuments() {
     }
   } catch (err) {
     console.error('Failed to load documents list:', err);
-    elements.docNavList.innerHTML = '<div class="nav-loading" style="color:#ef4444;">无法连接服务，请检查网络</div>';
+    elements.docNavList.innerHTML = '<div class="nav-loading" style="color:#ef4444;">无法读取目录，请稍候重试</div>';
   }
 }
 
@@ -228,7 +249,7 @@ function renderDocumentNav(categories) {
 }
 
 /**
- * Load and render a specific Markdown document
+ * Load and render a specific Markdown document (Dual-mode: dynamic API vs static raw markdown)
  */
 async function loadDocument(docPath, updateHash = true) {
   if (!docPath) return;
@@ -261,12 +282,25 @@ async function loadDocument(docPath, updateHash = true) {
   `;
 
   try {
-    const res = await fetch(`/api/content?path=${encodeURIComponent(docPath)}`);
-    if (!res.ok) throw new Error('Failed to fetch content');
-    const data = await res.json();
-    state.currentMtime = data.mtime;
+    let rawContent = '';
+    let mtime = 0;
 
-    renderMarkdown(data.content);
+    // 1. Try dynamic server API first
+    const res = await fetch(`/api/content?path=${encodeURIComponent(docPath)}`).catch(() => null);
+    if (res && res.ok) {
+      const data = await res.json();
+      rawContent = data.content;
+      mtime = data.mtime;
+    } else {
+      // 2. Cloud static mode: fetch raw Markdown file directly!
+      const staticRes = await fetch(docPath);
+      if (!staticRes.ok) throw new Error(`HTTP ${staticRes.status}: 无法获取讲义文件`);
+      rawContent = await staticRes.text();
+      mtime = 0;
+    }
+
+    state.currentMtime = mtime;
+    renderMarkdown(rawContent);
     window.scrollTo({ top: 0, behavior: 'instant' });
   } catch (err) {
     elements.articleContent.innerHTML = `
@@ -361,7 +395,7 @@ function startPolling() {
   if (state.pollingTimer) clearInterval(state.pollingTimer);
 
   state.pollingTimer = setInterval(async () => {
-    if (!state.currentPath || document.hidden) return;
+    if (!state.isLocalServer || !state.currentPath || document.hidden) return;
 
     try {
       const res = await fetch(`/api/content?path=${encodeURIComponent(state.currentPath)}`);
