@@ -525,6 +525,60 @@ function initEventListeners() {
     }
   }, { passive: true });
 
+  // Intercept all in-article link clicks (in-page anchors and cross-document markdown links)
+  elements.articleContent.addEventListener('click', (e) => {
+    const link = e.target.closest('a');
+    if (!link) return;
+
+    const href = link.getAttribute('href');
+    if (!href) return;
+
+    // Case 1: In-page anchor link (e.g. #case-01 or #part-1 or #section-1-1)
+    if (href.startsWith('#')) {
+      e.preventDefault();
+      const rawTarget = href.substring(1);
+      const decodedTarget = decodeURIComponent(rawTarget);
+
+      // Locate target element
+      let targetEl = document.getElementById(rawTarget) ||
+                     document.getElementById(decodedTarget) ||
+                     elements.articleContent.querySelector(`[name="${rawTarget}"]`) ||
+                     elements.articleContent.querySelector(`[name="${decodedTarget}"]`) ||
+                     elements.articleContent.querySelector(`span[id="${rawTarget}"]`) ||
+                     elements.articleContent.querySelector(`span[id="${decodedTarget}"]`);
+
+      // Fuzzy matching by heading text if exact ID not found
+      if (!targetEl) {
+        const headings = elements.articleContent.querySelectorAll('h1, h2, h3, h4, h5, h6');
+        for (const h of headings) {
+          const text = h.textContent.trim();
+          if (text.includes(decodedTarget) || decodedTarget.includes(text)) {
+            targetEl = h;
+            break;
+          }
+        }
+      }
+
+      if (targetEl) {
+        const top = targetEl.getBoundingClientRect().top + window.pageYOffset - 70;
+        window.scrollTo({ top, behavior: 'smooth' });
+      }
+      return;
+    }
+
+    // Case 2: Cross-document markdown link (e.g. guides/english_sentence_learning_guide.md or lessons/lesson_01.md)
+    if (href.endsWith('.md') && !href.startsWith('http://') && !href.startsWith('https://')) {
+      e.preventDefault();
+      let targetPath = href.replace(/^\.\//, '');
+      if (!targetPath.includes('/') && state.currentPath.includes('/')) {
+        const dir = state.currentPath.substring(0, state.currentPath.lastIndexOf('/') + 1);
+        targetPath = dir + targetPath;
+      }
+      loadDocument(targetPath);
+      return;
+    }
+  });
+
   // Handle browser back/forward buttons
   window.addEventListener('hashchange', () => {
     const hashMatch = window.location.hash.match(/#doc=([^&]+)/);

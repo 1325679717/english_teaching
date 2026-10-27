@@ -55,7 +55,7 @@
 
 ### 模块 2：锁定 5 大基本句型骨架（抓主干）
 
-无论长句多复杂，主干一定是这 5 种之一（详细例句参见 [english_sentence_learning_guide.md](file:///Users/mayantao/Documents/python-playground/english_teaching/guides/english_sentence_learning_guide.md)）：
+无论长句多复杂，主干一定是这 5 种之一（详细例句参见 [english_sentence_learning_guide.md](english_sentence_learning_guide.md)）：
 1. **主 + 谓 (S + V)**：*It works.*（这招管用 / 机器能运转。）
 2. **主 + 谓 + 宾 (S + V + O)**：*I get your point.*（我明白你的意思了。）
 3. **主 + 系 + 表 (S + V + P)**：*That sounds like a plan.*（听起来是个好主意 / 就这么办。）
@@ -197,10 +197,10 @@
 ---
 
 > ### 🚀 启动指引与配套资源
-> 现在就可以从你的工作区讲义开始：打开 [lessons/lesson_01.md](file:///Users/mayantao/Documents/python-playground/english_teaching/lessons/lesson_01.md) 中的第一句，按本指南的“三步实验室法则”跑通你的第一个真句卡片！
+> 现在就可以从你的工作区讲义开始：打开 [lessons/lesson_01.md](lessons/lesson_01.md) 中的第一句，按本指南的“三步实验室法则”跑通你的第一个真句卡片！
 >
 > **相关配套学习资源导航**：
-> - 📘 **句型骨架与三阶十句指南**：[guides/english_sentence_learning_guide.md](file:///Users/mayantao/Documents/python-playground/english_teaching/guides/english_sentence_learning_guide.md)
-> - 🧪 **高频口语真句实验室 10 案**：[cases/classic_sentence_lab_cases.md](file:///Users/mayantao/Documents/python-playground/english_teaching/cases/classic_sentence_lab_cases.md)
-> - ☕️ **《老友记》黄金微课讲义**：[lessons/lesson_01.md](file:///Users/mayantao/Documents/python-playground/english_teaching/lessons/lesson_01.md)
-> - 🧭 **项目总览与索引**：[README.md](file:///Users/mayantao/Documents/python-playground/english_teaching/README.md)
+> - 📘 **句型骨架与三阶十句指南**：[guides/english_sentence_learning_guide.md](guides/english_sentence_learning_guide.md)
+> - 🧪 **高频口语真句实验室 10 案**：[cases/classic_sentence_lab_cases.md](cases/classic_sentence_lab_cases.md)
+> - ☕️ **《老友记》黄金微课讲义**：[lessons/lesson_01.md](lessons/lesson_01.md)
+> - 🧭 **项目总览与索引**：[README.md](README.md)

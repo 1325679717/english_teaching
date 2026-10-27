@@ -7,20 +7,21 @@
 ---
 
 ## 目录
-- [案例 01 · 伴随省略定语从句 (老友记经典开场)](#案例-01--伴随省略定语从句-老友记经典开场)
-- [案例 02 · There be 存在句与不定式后置定语](#案例-02--there-be-存在句与不定式后置定语)
-- [案例 03 · 形式主语 It 与剧情反转短语](#案例-03--形式主语-it-与剧情反转短语)
-- [案例 04 · 主谓宾宾补 (S+V+O+C) 改变状态](#案例-04--主谓宾宾补-svoc-改变状态)
-- [案例 05 · 过去进行时打造极其得体的委婉请求](#案例-05--过去进行时打造极其得体的委婉请求)
-- [案例 06 · 双宾语结构 + 疑问词引导直宾从句](#案例-06--双宾语结构--疑问词引导直宾从句)
-- [案例 07 · 情绪语块 can't help doing 动名词](#案例-07--情绪语块-cant-help-doing-动名词)
-- [案例 08 · 口语高频焦点框架 (The thing is, ...)](#案例-08--口语高频焦点框架-the-thing-is-)
-- [案例 09 · 感官系表结构与 too...to 否定暗示](#案例-09--感官系表结构与-tooto-否定暗示)
-- [案例 10 · 现在完成时委婉询问进展](#案例-10--现在完成时委婉询问进展)
+- [案例 01 · 伴随省略定语从句 (老友记经典开场)](#case-01)
+- [案例 02 · There be 存在句与不定式后置定语](#case-02)
+- [案例 03 · 形式主语 It 与剧情反转短语](#case-03)
+- [案例 04 · 主谓宾宾补 (S+V+O+C) 改变状态](#case-04)
+- [案例 05 · 过去进行时打造极其得体的委婉请求](#case-05)
+- [案例 06 · 双宾语结构 + 疑问词引导直宾从句](#case-06)
+- [案例 07 · 情绪语块 can't help doing 动名词](#case-07)
+- [案例 08 · 口语高频焦点框架 (The thing is, ...)](#case-08)
+- [案例 09 · 感官系表结构与 too...to 否定暗示](#case-09)
+- [案例 10 · 现在完成时委婉询问进展](#case-10)
+- [🎯 初学者如何使用这 10 个黄金案例？](#how-to-use)
 
 ---
 
-### 案例 01 · 伴随省略定语从句 (老友记经典开场)
+### <span id="case-01"></span>案例 01 · 伴随省略定语从句 (老友记经典开场)
 
 > **真实原句**：  
 > **"He's just some guy I work with!"**  
@@ -41,7 +42,7 @@
 
 ---
 
-### 案例 02 · There be 存在句与不定式后置定语
+### <span id="case-02"></span>案例 02 · There be 存在句与不定式后置定语
 
 > **真实原句**：  
 > **"There's nothing to tell!"**  
@@ -63,7 +64,7 @@
 
 ---
 
-### 案例 03 · 形式主语 It 与剧情反转短语
+### <span id="case-03"></span>案例 03 · 形式主语 It 与剧情反转短语
 
 > **真实原句**：  
 > **"It turns out that we were looking at the wrong map the whole time."**  
@@ -84,7 +85,7 @@
 
 ---
 
-### 案例 04 · 主谓宾宾补 (S+V+O+C) 改变状态
+### <span id="case-04"></span>案例 04 · 主谓宾宾补 (S+V+O+C) 改变状态
 
 > **真实原句**：  
 > **"Your unexpected visit totally made my day!"**  
@@ -104,7 +105,7 @@
 
 ---
 
-### 案例 05 · 过去进行时打造极其得体的委婉请求
+### <span id="case-05"></span>案例 05 · 过去进行时打造极其得体的委婉请求
 
 > **真实原句**：  
 > **"I was wondering if you could give me a hand with this."**  
@@ -125,7 +126,7 @@
 
 ---
 
-### 案例 06 · 双宾语结构 + 疑问词引导直宾从句
+### <span id="case-06"></span>案例 06 · 双宾语结构 + 疑问词引导直宾从句
 
 > **真实原句**：  
 > **"Could you show me how this works?"**  
@@ -146,7 +147,7 @@
 
 ---
 
-### 案例 07 · 情绪语块 can't help doing 动名词
+### <span id="case-07"></span>案例 07 · 情绪语块 can't help doing 动名词
 
 > **真实原句**：  
 > **"I can't help feeling a bit overwhelmed by all this information."**  
@@ -166,7 +167,7 @@
 
 ---
 
-### 案例 08 · 口语高频焦点框架 (The thing is, ...)
+### <span id="case-08"></span>案例 08 · 口语高频焦点框架 (The thing is, ...)
 
 > **真实原句**：  
 > **"The thing is, I don't really have the bandwidth for that right now."**  
@@ -186,7 +187,7 @@
 
 ---
 
-### 案例 09 · 感官系表结构与 too...to 否定暗示
+### <span id="case-09"></span>案例 09 · 感官系表结构与 too...to 否定暗示
 
 > **真实原句**：  
 > **"That sounds way too good to be true."**  
@@ -206,7 +207,7 @@
 
 ---
 
-### 案例 10 · 现在完成时委婉询问进展
+### <span id="case-10"></span>案例 10 · 现在完成时委婉询问进展
 
 > **真实原句**：  
 > **"Have you had a chance to look over the proposal yet?"**  
@@ -227,7 +228,7 @@
 
 ---
 
-## 🎯 初学者如何使用这 10 个黄金案例？
+## <span id="how-to-use"></span>🎯 初学者如何使用这 10 个黄金案例？
 
 1. **每天只吃透 1 个案例**：不要贪多，把它的语境、骨架和探针看懂；
 2. **大声朗读原句 5 遍**：形成舌尖肌肉记忆；
