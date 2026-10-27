@@ -196,5 +196,11 @@
 
 ---
 
-> ### 🚀 启动指引
-> 现在就可以从你的工作区讲义开始：打开 [`english_reading_lesson_01.md`](file:///Users/mayantao/Documents/python-playground/english_teaching/english_reading_lesson_01.md) 中的第一句，按本指南的“三步实验室法则”跑通你的第一个真句卡片！
+> ### 🚀 启动指引与配套资源
+> 现在就可以从你的工作区讲义开始：打开 [lessons/lesson_01.md](file:///Users/mayantao/Documents/python-playground/english_teaching/lessons/lesson_01.md) 中的第一句，按本指南的“三步实验室法则”跑通你的第一个真句卡片！
+>
+> **相关配套学习资源导航**：
+> - 📘 **句型骨架与三阶十句指南**：[guides/english_sentence_learning_guide.md](file:///Users/mayantao/Documents/python-playground/english_teaching/guides/english_sentence_learning_guide.md)
+> - 🧪 **高频口语真句实验室 10 案**：[cases/classic_sentence_lab_cases.md](file:///Users/mayantao/Documents/python-playground/english_teaching/cases/classic_sentence_lab_cases.md)
+> - ☕️ **《老友记》黄金微课讲义**：[lessons/lesson_01.md](file:///Users/mayantao/Documents/python-playground/english_teaching/lessons/lesson_01.md)
+> - 🧭 **项目总览与索引**：[README.md](file:///Users/mayantao/Documents/python-playground/english_teaching/README.md)
