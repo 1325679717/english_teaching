@@ -222,6 +222,79 @@
 
 ---
 
+### 🔬 深度拆解：两大超级修饰积木（介词短语 vs 不定式 to do）
+
+如果把英语句子的 5 大骨架比作**“骨骼”**，那么**介词短语**和**不定式（to do）**就是挂在骨骼上的**“肌肉与血肉”**。搞懂它们的底层逻辑，你就掌握了英语长句 80% 的密码。
+
+#### 1. 介词短语（Prepositional Phrases）：句子的“空间/时间定位器”
+* **本质公式**：`介词 (in / on / at / with / from / for / under...) + 名词短语 / 代词`
+* **铁律**：**介词绝不单打独斗**！它后面必须拉着一个名词/代词小跟班组成一个“战斗小组”（如 `with my friend`, `at work`, `in the morning`）。
+* **两大超级职能**：
+  * **职能 A：作【状语】（交代背景：何时、何地、和谁、以何种方式）**  
+    修饰动作或全句，回答“在什么背景下发生”：  
+    - 交代来源：*I learned this trick **[from a friend]**.*（我从一个朋友那里学来这招。）  
+    - 交代地点：*She works **[in a tech company]**.*（她在一家科技公司上班。）  
+    - 交代伴随：*I went to the cinema **[with Joey]**.*（我和 Joey 一起去电影院。）  
+    - 交代方式：*He spoke **[with great confidence]**.*（他极其自信地发言。）
+  * **职能 B：作【定语】（紧贴在名词后，给名词打身份标签）**  
+    回答“哪一个？”、“什么样的？”：  
+    - *The guy **[with red hair]** is a doctor.*（红头发的那个家伙是个医生。）  
+    - *The coffee shop **[around the corner]** is open.*（拐角处的那家咖啡店开门了。）
+* **中英思维避坑**：  
+  中文习惯修饰语前置（*“我今天在公司从一个朋友那里学到了这招”*）；  
+  英文必须核心后挂（*I learned this trick **[from a friend] [at work] [today]**.* 先抛动作，背景配件往后排）。
+
+#### 2. 不定式（to do）：动词的“未竟使命与前进指针”
+* **什么是“不定”？** 动词戴上 `to` 之后，**“不再当谓语动词了”**（词性不确定，摇身一变可以充当名词、形容词、副词）。
+* **核心心理暗号**：`to do` 永远带有一种 **“指向未来、带有目的、准备去做、还没发生”** 的前进倾向！
+* **三大高频差事**：
+  * **差事 1：表【目的】（作目的状语，口语占 70%）**  
+    回答“为什么要做主干动作？为了干嘛？”：  
+    - *I stayed up late **[to finish the report]**.*（我熬夜是为了写完报告。）  
+    - *He went outside **[to get some fresh air]**.*（他去外面为了透透气。）  
+    - *I'm calling **[to confirm our reservation]**.*（我打电话是为了确认预订。）
+  * **差事 2：给名词当【后置定语】（解释“拿来干嘛的东西 / 要做的事”）**  
+    回答“这个东西是用来干什么的？”：  
+    - *There's nothing **[to tell]**!*（没有什么[拿来能说的]事！——老友记首集名台词）  
+    - *I have a lot of work **[to do]**.*（我有好多[要做]的工作。）  
+    - *Give me a reason **[to stay]**.*（给我一个[留下来]的理由。）
+  * **差事 3：作动词的【宾语】（跟在希望、打算类动词后面）**  
+    - *I want **[to sleep]**.*（我想去睡觉。）  
+    - *We decided **[to cancel the trip]**.*（我们决定取消这次旅行。）  
+    - *Ross just wanna **[be married again]**!*（Ross 只想重回婚姻！）
+
+#### 3. 乐高组装实战：看两块积木如何把句子“无限拉长”
+体会母语者如何用这两块积木，把一个 3 词简单句像穿烤肉串一样逐层升级：
+
+```
+1. 核心骨架 (S + V):
+   He went to a cafe.
+   (他去了一家咖啡馆。)
+
+2. 挂第 1 块积木：加【介词短语定语】（哪家咖啡馆？）
+   He went to a cafe [across the street].
+   (他去了街对面的那家咖啡馆。)
+
+3. 挂第 2 块积木：加【介词短语伴随】（带了什么？）
+   He went to a cafe across the street [with his laptop].
+   (他带着笔记本电脑，去了街对面那家咖啡馆。)
+
+4. 挂第 3 块积木：加【不定式目的状语】（去干嘛？）
+   He went to a cafe across the street with his laptop [to prepare his presentation].
+   (为了准备演示文稿，他带着笔记本电脑去了街对面的那家咖啡馆。)
+
+5. 挂第 4 块积木：加【介词短语时间】（什么时候？）
+   He went to a cafe across the street with his laptop to prepare his presentation [on a rainy morning].
+   (在一个下雨的早晨，为了准备演示文稿，他带着笔记本电脑去了街对面那家咖啡馆。)
+```
+
+> **极简总结口诀**：  
+> - **介词短语**：负责**空间、时间、伴随与身份标签**（`in/on/at/with + 名词`），是句子的**背景定位器**；  
+> - **不定式 (to do)**：负责**奔向未来、解释目的与计划**（`to + 动词原形`），是句子的**目的驱动器**；  
+> - **摆放铁律**：两者在绝大多数情况下，都牢牢跟在**核心主谓宾骨架的屁股后面**！
+
+---
+
 ### 第三阶：高频实用从句（练“逻辑衔接”）
 
 掌握了修饰积木后，日常生活与职场中 **90% 的复杂逻辑表达**，仅需熟练掌握以下 3 种最高频的连词从句结构：

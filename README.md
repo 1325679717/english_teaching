@@ -25,9 +25,9 @@ english_teaching/
 
 ### 1. [方法论指南目录 (guides/)](file:///Users/mayantao/Documents/python-playground/english_teaching/guides)
 * **[english_sentence_learning_guide.md](file:///Users/mayantao/Documents/python-playground/english_teaching/guides/english_sentence_learning_guide.md)**  
-  * 搞懂 5 种基本句型骨架（S+V, S+V+O, S+V+P, S+V+IO+DO, S+V+O+C）；
-  * 积累语块（Chunks）与拆装句子（积木式由短变长）；
-  * 3 个可落地的日常练习：i+1、回译练习、换词仿写。
+  * **第一阶**：5 种基本句型母句 +“双宾 vs 宾补”加 be 动词 1 秒判别秘籍；
+  * **第二阶**：两大超级修饰积木（介词短语定位器 vs 不定式 to do 目的驱动器）深度拆解与乐高拉长实战；
+  * **第三阶**：3 大高频从句（宾从否定前移、定从打补丁、状从条件）与“三阶十句”刻意练习法。
 * **[english_learning_roadmap_80_20.md](file:///Users/mayantao/Documents/python-playground/english_teaching/guides/english_learning_roadmap_80_20.md)**  
   * 前 20% 精力（第 1~2 周）：掌握 5 大词性 + 5 大句型 + 3 大核心时态（最小可用语法 MVG）；
   * 后 80% 精力（持续实战）：真句攻坚，“以句带法、反向查缺、1 句变 3 句”；
