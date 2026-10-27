@@ -154,13 +154,13 @@
 
 ### 经验合拢映射表（示例）：
 
-| 语法书的抽象目录 | 你笔记本里的真实鲜活句子 | 顿悟总结 |
+| 语法书的抽象目录 | 你脑海里的黄金母句 | 顿悟思维与本质逻辑 |
 | :--- | :--- | :--- |
-| **定语从句 (Attributive Clause)** | *I bought a book that my friend recommended.* | 原来就是把一个修饰短语塞在名词后面充当超长形容词！ |
-| **宾语从句 (Object Clause)** | *I didn't realize that you were waiting for me.* | 原来就是把一个完整的句子当作及物动词的宾语！ |
-| **现在完成时 (Present Perfect)** | *I have already finished the report.* | 原来就是强调过去的动作对现在的“影响和结果”！ |
-| **动名词 (Gerund)** | *I can't help feeling nervous before presentations.* | 原来介词后面接动词必须加 `-ing` 变成名词属性！ |
-| **状语从句 (Adverbial Clause)** | *Call me whenever you need help.* | 原来就是给全句补充时间、条件或原因说明！ |
+| **定语从句 (Attributive Clause)** | *The guy who lives next door is a doctor.* | 原来就是把一个修饰从句塞在名词后面充当超长“补丁”！ |
+| **宾语从句 (Object Clause)** | *I don't think (that) we have enough time.* | 原来就是把一个完整的句子当作 think 的宾语，而且习惯否定前移！ |
+| **状语从句 (Adverbial Clause)** | *Let me know if you need anything.* | 原来就是用 if/when 给全句补充触发的条件、时间或原因！ |
+| **介词短语状语 (Prepositional Phrase)** | *I learned this trick from a friend at work.* | 原来这就是拉长句子的第一配件，全按顺序挂在主干屁股后面！ |
+| **不定式目的状语 (Infinitive of Purpose)** | *I stayed up late to finish the report.* | 原来不用背复杂句式，在主干后直接用 to do 就能表明行动目的！ |
 
 ---
 

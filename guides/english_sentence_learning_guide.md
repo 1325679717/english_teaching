@@ -5,9 +5,9 @@
 
 ## 目录
 - [0. 核心心法：为什么是“骨架 + 语块”？](#0-核心心法为什么是骨架--语块)
-- [1. 第一步：先抓“主干”——搞懂 5 种基本句型](#1-第一步先抓主干搞懂-5-种基本句型)
+- [1. 第一步：先抓“主干”——第一阶：5 种基本句型母句](#1-第一步先抓主干搞懂-5-种基本句型)
 - [2. 第二步：积累“语块（Chunks）”，告别孤立背单词](#2-第二步积累语块chunks告别孤立背单词)
-- [3. 第三步：学会“拆装句子”——从简单句到高阶复杂句](#3-第三步学会拆装句子从简单句到高阶复杂句)
+- [3. 第三步：学会“拆装句子”——第二阶“修饰积木”与第三阶“高频从句”](#3-第三步学会拆装句子从-5-大骨架到-10-句进阶系统)
 - [4. 第四步：每天可落地的 3 个实操练习闭环](#4-第四步每天可落地的-3-个实操练习闭环)
 - [5. 每日 20 分钟实操训练模版与打卡清单](#5-每日-20-分钟实操训练模版与打卡清单)
 
@@ -182,48 +182,122 @@
 
 ---
 
-## 3. 第三步：学会“拆装句子”——从简单句到高阶复杂句
+## 3. 第三步：学会“拆装句子”——从 5 大骨架到 10 句进阶系统
 
-当你搞清楚了 5 种基本句型，并积累了地道语块，就可以像**拼装乐高积木**一样：
-- **装配法（Building-Up）**：在核心主干上添加各类修饰积木，让句子由短变长、表达更丰富。
-- **拆卸法（Peeling-Down）**：面对长难句，逐层剥除修饰枝叶，一眼还原核心主干。
+掌握了 5 种基本骨架后，很多学习者会困惑：“简单句我懂了，但面对真实英文的长句子，我还是不知如何下手。”  
+其实英语句子变长的规律极其清晰：**80% 靠“后置修饰积木”，20% 靠“3 大高频从句”**。
+
+我们可以把整个句法能力划分为由浅入深的 **“三阶十句通关体系”**：
+- **第一阶（1~5）**：5 大基本骨架（简单句核心，前文已掌握）
+- **第二阶（6~7）**：加“修饰积木”（练“拉长句子”，克服中英语序倒置）
+- **第三阶（8~10）**：加“高频从句”（练“复杂逻辑衔接”，搞定 90% 日常表达）
 
 ---
 
-### 积木式组装演示：4 步将简单句升级为生动复合句
+### 第二阶：加“修饰积木”（练“拉长句子”）
+
+> 💡 **中英思维核心差异：修饰语后置**  
+> 中文习惯把修饰语堆在前面（如：*“我从工作中的一个朋友那里学到的这招”*）；  
+> 而英语必须**“先抛出核心主谓宾骨架，再往后挂配件”**。英语拉长句子 80% 靠以下两种积木：
+
+#### 6. 主干 + 介词短语（表方式 / 地点 / 来源）
+- **典型母句**：  
+  * **`I learned this trick from a friend at work.`**  
+    （我是从工作中的一个朋友那里学到这招的。）
+- **怎么拆**：先砍掉尾巴看主干 —— **`I learned this trick`**（我学到了这招，S + V + O）。后面的 `from a friend`（来源）和 `at work`（地点）全是按顺序挂在主干后面的“配件积木”。
+- **换词仿写（1 句变 3 句）**：
+  - *I bought some coffee from the shop around the corner.*（我从街角那家店买了些咖啡。）
+  - *She heard the news from a colleague on the train.*（她在火车上从一位同事那里听到了这个消息。）
+  - *We downloaded the dataset from a public repo on GitHub.*（我们从 GitHub 上的一个公开仓库下载了数据集。）
+
+#### 7. 主干 + 动词不定式 to do（表目的）
+- **典型母句**：  
+  * **`I stayed up late to finish the report.`**  
+    （我熬夜是为了写完这份报告。）
+- **怎么拆**：核心主干是 **`I stayed up late`**（我熬夜了，S + V）。为什么熬夜？直接把 `to + 动词原形`（`to finish the report`）跟在主干后表明动作的目的。
+- **换词仿写（1 句变 3 句）**：
+  - *He went outside to get some fresh air.*（他去外面透透气。）
+  - *I took a taxi to catch the early flight.*（我打了辆出租车去赶早班机。）
+  - *She set an alarm to remind herself of the meeting.*（她设了个闹钟提醒自己开会。）
+
+---
+
+### 第三阶：高频实用从句（练“逻辑衔接”）
+
+掌握了修饰积木后，日常生活与职场中 **90% 的复杂逻辑表达**，仅需熟练掌握以下 3 种最高频的连词从句结构：
+
+#### 8. 宾语从句（表达想法、观察与事实）
+- **典型母句**：  
+  * **`I don't think (that) we have enough time.`**  
+    （我觉得我们时间不够了。）
+- **核心语法看点**：
+  1. **否定前移（极具母语者色彩）**：中文习惯说“我觉得我们**没有**足够时间”，英语母语者习惯说 **`I don't think we have...`**，而极少说 *I think we don't have...*。
+  2. **从句作宾语**：`think` 后面直接跟着一个完整的简单句 `we have enough time`，充当思考的内容（宾语），口语中连词 `that` 通常直接省略。
+- **换词仿写（1 句变 3 句）**：
+  - *I noticed (that) you changed your hairstyle.*（我注意到你换发型了。）
+  - *I believe (that) everything happens for a reason.*（我相信一切事情的发生都有其原因。）
+  - *She mentioned (that) the flight was delayed.*（她提到航班延误了。）
+
+#### 9. 定语从句（给名词打“精准补丁”）
+- **典型母句**：  
+  * **`The guy who lives next door is a doctor.`**  
+    （住隔壁的那个家伙是个医生。）
+- **核心语法看点**：
+  1. **中英思维完全倒置**：中文习惯在名词前面加超长修饰语（“**住隔壁的**那个家伙”）；英语则是**先抛出核心名词 `The guy`，再紧跟从句 `who lives next door` 解释“是哪个家伙”**。
+  2. **主干一眼透视**：剔除从句补丁后，核心主干其实就是极简的主系表：**`The guy is a doctor`**。
+- **换词仿写（1 句变 3 句）**：
+  - *The book that I bought yesterday is really boring.*（我昨天买的那本书真无聊。）
+  - *The coffee shop that she recommended is amazing.*（她推荐的那家咖啡馆棒极了。）
+  - *The colleague who helped me with the project just got promoted.*（在项目上帮过我的那位同事刚刚升职了。）
+
+#### 10. 状语从句（表达条件 / 时间 / 原因）
+- **典型母句**：  
+  * **`Let me know if you need anything.`**  
+    （如果你需要任何东西，告诉我一声。）
+- **核心语法看点**：
+  1. 前半句 `Let me know` 是生活高频祈使句（结构为 `S+V+O+C`，省略主语 you）；
+  2. 后半句用 `if`（如果）、`when`（当……时）、`because`（因为）引导条件或时间状语从句，补充说明核心动作触发的前提。
+- **换词仿写（1 句变 3 句）**：
+  - *Call me when you get home.*（你到家的时候给我打个电话。）
+  - *We can start the discussion as soon as everyone arrives.*（大家一到我们就可以开始讨论。）
+  - *I decided to walk because the weather was so nice.*（因为天气太好了，我决定走路去。）
+
+---
+
+### 🎯 这 10 句黄金母句的最高效刻意练习法
+
+学完这 10 个囊括英语 90% 表达骨架的母句，千万不要只停留在“看懂”，用以下两招快速内化为舌尖肌肉记忆：
+
+1. **练习法一：遮住英文看中文（回译逆练）**  
+   看着中文译文，强迫自己在脑海中按**“先抛主干，再贴后置修饰/从句”**的英文语序顺序拼出完整句子。对比原文，观察自己是否漏掉了介词或把修饰语放错了位置。
+2. **练习法二：每句改写 1 个词（换词仿写实战）**  
+   保持每句话的句型结构完全不变，仅将句中的核心名词、动词替换为你今天真实遇到的生活或工作细节，大声朗读出来。把句子真正变成你自己的表达工具！
+
+---
+
+### 积木式组装演示：将简单句逐层升级为复合长句
 
 假设我们有一个极其简陋的基础骨架：
 > **核心骨架 (S + V + O)**:  
 > `I bought a book.`（我买了一本书。）
 
-#### 第 1 层积木：加地点与时间（介词短语状语）
-- 说明买书的时间与场合：
-- 组装：`I bought a book` + `[at the airport]` + `[yesterday]`.
-- 呈现：*I bought a book at the airport yesterday.*  
-  （我昨天在机场买了一本书。）
-
-#### 第 2 层积木：加定语修饰名词（定语从句）
-- 说明这是一本什么样的书（修饰 `book`）：
-- 组装：`a book` ➔ `a book [that my friend recommended]`.
-- 呈现：*I bought a book that my friend recommended at the airport yesterday.*  
-  （我昨天在机场买了那本我朋友推荐的书。）
-
-#### 第 3 层积木：加目的状语（动词不定式非谓语）
-- 说明买这本书是为了做什么（说明动作 `bought` 的目的）：
-- 组装：`... to kill time on the flight`.
-- 呈现：*Yesterday at the airport, I bought a book that my friend recommended to kill time on the flight.*  
-  （昨天在机场，为了在航班上打发时间，我买下了朋友推荐的那本书。）
+* **第 1 层（挂介词短语积木）**：说明时间与地点  
+  ➔ *I bought a book **at the airport yesterday**.*
+* **第 2 层（挂定语从句补丁）**：说明这是一本什么书  
+  ➔ *I bought a book **that my friend recommended** at the airport yesterday.*
+* **第 3 层（挂不定式目的积木）**：说明买书的目的  
+  ➔ *Yesterday at the airport, I bought a book that my friend recommended **to kill time on the flight**.*
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
 │                        【长难句积木组装结构图】                        │
 │                                                                        │
-│  [Yesterday at the airport] ── 时间/地点状语 (介词短语)                │
+│  [Yesterday at the airport] ── 时间/地点状语 (介词短语积木)            │
 │  I                          ── 主语 (Subject)                          │
 │  bought                     ── 谓语 (Verb)                             │
 │  a book                     ── 宾语 (Object)                           │
-│  [that my friend recommended] ── 定语修饰 book (定语从句)              │
-│  [to kill time on the flight] ── 目的状语 (动词不定式)                 │
+│  [that my friend recommended] ── 定语从句补丁 (修饰 book)              │
+│  [to kill time on the flight] ── 目的状语 (动词不定式积木)             │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -231,19 +305,11 @@
 
 ### 逆向工程：长难句“剥洋葱”四步速解法
 
-遇到长难句不要慌，按以下 4 步快速拆解：
-
-1. **第 1 步：找动词**  
-   找出句子中所有的动词，排除非谓语动词（doing / done / to do）和从句连接词（which / that / because / when）引导的从属动词，定位真正的**核心谓语动词**。
-2. **第 2 步：找主语**  
-   问一句“是谁执行了这个核心动作？”，确定**核心主语**。
-3. **第 3 步：划掉修饰干扰项**  
-   把用括号或划线将以下三类成分暂时“隐去”：
-   - 介词短语（如 `in the morning`, `with great effort`）
-   - 定语从句与状语从句（如 `which was built last year`）
-   - 插入语（如 `however`, `to be honest`）
-4. **第 4 步：直面极简骨架**  
-   还原为 5 大基础句型之一，读懂核心主旨后，再把刚刚隐去的修饰积木逐一拼回。
+反过来，遇到任何令人生畏的长难句，反向执行 4 步快速拆解：
+1. **第 1 步：找核心动词**：排除从句引导词（`who/that/if`）后的动词和非谓语（`to do/doing`），锁定核心谓语。
+2. **第 2 步：找真正主语**：找出执行该核心动作的主体。
+3. **第 3 步：划掉后置修饰与从句**：暂时用括号把介词短语、定语从句、状语从句隐去。
+4. **第 4 步：直面 1~5 基础骨架**：看懂主旨后，再把刚刚剥掉的修饰积木逐一还原拼回。
 
 ---
 
