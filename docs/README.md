@@ -50,7 +50,8 @@ english_teaching/
 ### 3. [《老友记》精萃微课 (lessons/)](lessons/)
 > **原则**：拒绝全剧本覆盖的沉重压力，每课只聚焦 **1 个高光微场景（30~50 词，3 句核心对话）**，每次 5 分钟吃透 1 个地道黄金表达。
 
-* **[lesson_01.md](lessons/lesson_01.md)**：*Scene 1 · 撇清八卦与普通同事*（*"He's just some guy I work with!"*）
+* **[lesson_01.md](lessons/lesson_01.md)**：*Lesson 01 · 撇清八卦与普通同事*（*"He's just some guy I work with!"*）
+* **[lesson_02.md](lessons/lesson_02.md)**：*Lesson 02 · 逃婚新娘与独立宣言*（*"What if I don't wanna be a shoe?"*）
 * *(后续课时持续按微课标准更新……)*
 
 ---

@@ -168,7 +168,19 @@ class ReadingServerHandler(SimpleHTTPRequestHandler):
         if os.path.isdir(lessons_dir):
             for fname in sorted(os.listdir(lessons_dir)):
                 if fname.endswith(".md"):
-                    title = f"Lesson {fname.replace('lesson_', '').replace('.md', '')} · 撇清八卦与普通同事" if "01" in fname else fname
+                    fpath = os.path.join(lessons_dir, fname)
+                    title = fname
+                    try:
+                        with open(fpath, "r", encoding="utf-8") as f:
+                            for line in f:
+                                line = line.strip()
+                                if line.startswith("# "):
+                                    title = line[2:].strip()
+                                    if " (Friends" in title:
+                                        title = title.split(" (Friends")[0].replace(": ", " · ")
+                                    break
+                    except Exception:
+                        pass
                     lessons.append({
                         "title": title,
                         "filename": fname,

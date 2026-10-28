@@ -19,6 +19,20 @@ WEB_DIR = os.path.join(BASE_DIR, "web")
 DIST_DIR = os.path.join(BASE_DIR, "dist")
 DOCS_DIR = os.path.join(BASE_DIR, "docs")
 
+def extract_title_from_md(file_path, default_title):
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line.startswith("# "):
+                    title = line[2:].strip()
+                    if " (Friends" in title:
+                        title = title.split(" (Friends")[0].replace(": ", " · ")
+                    return title
+    except Exception:
+        pass
+    return default_title
+
 def get_documents_metadata():
     categories = []
 
@@ -28,6 +42,7 @@ def get_documents_metadata():
     if os.path.isdir(guides_dir):
         for fname in sorted(os.listdir(guides_dir)):
             if fname.endswith(".md"):
+                fpath = os.path.join(guides_dir, fname)
                 title = "英语句子学习核心指南" if "sentence" in fname else ("80/20 学习路线图" if "roadmap" in fname else fname)
                 guides.append({
                     "title": title,
@@ -46,6 +61,7 @@ def get_documents_metadata():
     if os.path.isdir(cases_dir):
         for fname in sorted(os.listdir(cases_dir)):
             if fname.endswith(".md"):
+                fpath = os.path.join(cases_dir, fname)
                 title = "口语高频黄金真句 10 案" if "classic" in fname else fname
                 cases.append({
                     "title": title,
@@ -64,7 +80,8 @@ def get_documents_metadata():
     if os.path.isdir(lessons_dir):
         for fname in sorted(os.listdir(lessons_dir)):
             if fname.endswith(".md"):
-                title = f"Lesson {fname.replace('lesson_', '').replace('.md', '')} · 撇清八卦与普通同事" if "01" in fname else fname
+                fpath = os.path.join(lessons_dir, fname)
+                title = extract_title_from_md(fpath, fname)
                 lessons.append({
                     "title": title,
                     "filename": fname,
