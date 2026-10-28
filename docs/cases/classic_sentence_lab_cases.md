@@ -34,7 +34,10 @@
 - **【逆向语法探针（为什么这么排？）】**：
   1. **为什么介词 `with` 甩在句末？**  
      在正式书面语中通常说 *the guy with whom I work*，但日常口语中母语者 99% 会把介词放在句末，且把关系代词 `whom/that` 直接省略，听起来自然随性。
-  2. **`some guy` 的感情色彩**：这里的 `some` 不是“一些”，而是“某个不重要的人”，带有故意降低重要性的口吻。
+  2. **`some + 单数名词` 的微情绪（刻意降维 / 路人甲）**：  
+     这里的 `some` 不是“一些”，而是“某个不重要的路人”，Monica 故意用 `just some guy` 来降低约会的重要性。*(彩蛋：若重读 SOME，如 That's SOME car! 则反转为“绝了的好车”)*。
+  3. **剧本延伸口语音变：`gotta` 的非规范书写真相**：  
+     Joey 紧接着反驳：*"There's gotta be something wrong with him!"* 这里的 `gotta` 是口语中 `got to` (have got to) 的弱读连读音变（/ˈɡɑː.tə/），相当于 *must be*。美剧和日常口语极常见，但正式商业写作严禁书写。
 - **【半背半替（1 句变 3 句）】**：
   - *变句 1（日常生活）*：*She's just someone I went to high school with.*（她只是我高中同学而已。）
   - *变句 2（职场工作）*：*It's just a new tool I've been experimenting with.*（这只是我最近在试用的一款新工具。）

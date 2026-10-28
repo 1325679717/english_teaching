@@ -35,6 +35,8 @@
    英语日常口语中，老美极少用严肃生硬的 *colleague*，而是随口说 **`some guy / someone I work with`**，自然又接地气。
 2. **介词直接甩在句末**：  
    书面语是 *the person with whom I work*，但日常口语 99% 会把介词 `with` 甩到句末，省略关系词，读起来毫无阻滞。
+3. **`some + 单数可数名词` 的微语气（刻意降维 / 撇清关系）**：  
+   教材里只教 `some + 复数`（一些），但口语里 `some + 单数名词` 意思是**“某个不知哪来的、不值一提的”**。Monica 加上 `just some guy`，潜台词是：“别起哄！他就是个随便哪来的普通路人同事而已，根本不重要！”
 
 ### 🔄 半背半替：1 句变 3 句（直接迁移应用）
 * **变句 1（同学关系）**：  
@@ -46,12 +48,26 @@
 
 ---
 
-## 3. 语言小彩蛋：老友记的幽默密码
+## 3. 口语非规范发音与老友记彩蛋（Spoken Reductions）
 
-* **`There's gotta be something wrong with him!`**  
-  `There's gotta be...` 是 Joey 的招牌笃定推测句型（肯定有……/一定存在……）。形容词短语 `wrong with him` 一律放在不定代词 `something` 之后作后置定语。
-* **`Sounds like a date to me.`**  
-  Chandler 经典的冷面反讽。Monica 极力辩解“只要没发生关系就不算约会”，Chandler 淡淡补刀，瞬间戳穿她的自欺欺人。
+### 🎙️ 深度拆解：`gotta` 的非规范发音与书写真相
+* **Joey 原句**：`There's gotta be something wrong with him!`
+* **还原规范书面语**：`There has got to be something wrong with him.`（相当于 *There must be...*）
+* **音变三级跳**：
+  ```
+  第一级（规范书面）：There has got to be...
+              ⬇️ 口语弱读省略 has
+  第二级（口头连读）：There got to be...
+              ⬇️ 连读变音（t 闪音化，to 弱读为 /tə/）
+  第三级（美剧自然速）：There's gotta be... (/ˈɡɑː.tə/)
+  ```
+* **使用边界红线**：
+  - ✅ **美剧/日常口语/熟人微信**：直接说 *I gotta go*，亲切地道；
+  - ❌ **正式商业邮件/学术论文/求职信**：严禁书写 `gotta`，必须写规范形式 **have to / must**！
+
+### 🎭 老友记幽默密码
+* **`wrong with him` 后置修饰**：形容词短语修饰 `something`, `anything`, `nothing` 这类不定代词时，一律放在后面后置修饰。
+* **`Sounds like a date to me.`**：Chandler 经典的冷面反讽。Monica 极力辩解“只要没发生关系就不算约会”，Chandler 淡淡补刀，瞬间戳穿她的自欺欺人。
 
 ---
 

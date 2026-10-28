@@ -9,9 +9,11 @@
   - [1.1 5 大基本句型全景透视表（地道实战版）](#section-1-1)
   - [1.2 5 大句型逐一深度拆解与实战透视](#section-1-2)
   - [1.3 💡 核心疑难避坑：1 秒辨析“双宾语”与“宾补”（加 be 动词大法）](#section-1-3)
+  - [1.4 🔬 核心疑难避坑：形容词 vs 副词 1 秒辨析模型（它给谁打工？）](#section-1-4)
 - [2. 第二步：积累“语块（Chunks）”，告别孤立背单词](#part-2)
   - [2.1 为什么孤立背单词会失效？](#section-2-1)
   - [2.2 必须掌握的 3 类核心语块（固定搭配/功能框架/即时反应）](#section-2-2)
+  - [2.3 🎙️ 口语真实音变与非规范缩读指南（美剧高频五大金刚：gotta / gonna / wanna / kinda / lemme）](#section-2-3)
 - [3. 第三步：学会“拆装句子”——从 5 大骨架到 10 句进阶系统](#part-3)
   - [3.1 第二阶：加“修饰积木”（练“拉长句子”）](#section-3-1)
   - [3.2 🔬 深度拆解：两大超级修饰积木（介词短语 vs 不定式 to do）](#section-3-2)
@@ -147,6 +149,30 @@
 
 ---
 
+### <span id="section-1-4"></span>🔬 核心疑难避坑：形容词 (adj.) 与 副词 (adv.) 一秒辨析模型
+
+很多初学者容易将形容词和副词混淆，特别是在口语使役句和感官系动词之后。其实只需问一个问题：**“它在给谁打工？”**
+
+#### 💡 核心心智模型
+
+| 词类 | 唯一打工对象（修饰谁） | 回答什么问题 | 典型位置 |
+| :--- | :--- | :--- | :--- |
+| **形容词 (adj.)** | **只给【名词/代词】打工**（人或事物） | “**是什么样的？**”<br>*(What kind of?)* | 紧贴在名词前（*a **careful** driver*），或在系动词后面（*He is **patient**.*） |
+| **副词 (adv.)** | **给【动词、形容词、副词、整句】打工** | “**怎么做的 / 程度有多大？**”<br>*(How? To what extent?)* | 紧贴动词旁（*drives **carefully***）、形容词前（***totally** unexpected*），或句首句尾 |
+
+#### ⚠️ 口语 3 大“高频陷阱”：
+1. **感官系动词后必须接【形容词】（绝不接副词）**：
+   - ❌ *That sounds well / deliciously.*  
+   - ✅ **That sounds good / delicious.**（修饰主语咖啡或事情的状态，属于主系表，用形容词）。
+2. **使役改变状态，宾补用【形容词】**：
+   - ❌ *You drive me crazily.*  
+   - ✅ **You drive me crazy.**（`crazy` 补充说明名词宾语 `me` 变成的状态，用形容词）。
+3. **小心“形副同形”与“伪副词”**：
+   - `fast / hard / late`：形容词副词长得完全一样（*work hard*, *drive fast*，❌ 没有 *fastly*）；
+   - `friendly / lonely / lovely`：虽然以 `-ly` 结尾，但它们全都是**形容词**（*a friendly smile*）。
+
+---
+
 ## <span id="part-2"></span>2. 第二步：积累“语块（Chunks）”，告别孤立背单词
 
 母语者在日常交流和思考时，**不是一个词一个词在大脑里检索并按语法排列的**，而是直接按**“语块（Lexical Chunks）”**整组调用。
@@ -190,6 +216,37 @@
 - *No wonder!*（难怪！怪不得！）
 - *You nailed it!*（你干得太漂亮了！/ 完全答对了！）
 - *I couldn't agree more.*（我完全赞同。）
+
+---
+
+### <span id="section-2-3"></span>🎙️ 口语真实音变与非规范缩读指南（美剧高频五大金刚）
+
+在真实口语和美剧（如《老友记》）中，母语者为了省力，会大量使用**“音变缩读（Relaxed Pronunciation / Reduction）”**。这些词常常直接以非规范形式书写在字幕或日常短信中。
+
+#### 1. 深度剖析：`gotta` 的来龙去脉
+- **还原规范书面语**：`have got to / have to / must`（必须、得）
+- **演变路径**：
+  ```
+  第一级（规范书面）：I have got to go.
+              ⬇️ 口头弱读省略 have
+  第二级（日常普通）：I got to go.
+              ⬇️ 连读变音（t 闪音化，to 弱读为 /tə/）
+  第三级（美剧自然速）：I gotta go. (/ˈɡɑː.tə/)
+  ```
+- **核心用法**：
+  - `gotta + 动词原形`：*I gotta tell you something.*（我得告诉你件事。）
+  - `gotta + 名词`（相当于 have got a）：*I gotta bad feeling.*（我有种不祥的预感。）
+- **使用红线**：口语/微信可随意使用；但**正式商务邮件、学术论文严禁书写 gotta**（必须写 have to / must）。
+
+#### 2. 美剧口语必知“五大缩读金刚”速查表
+
+| 口语缩写 | 规范原形 | 核心含义 | 美剧经典例句 |
+| :--- | :--- | :--- | :--- |
+| **gotta** | *got to / have got to* | 得、必须 | *There's **gotta** be something wrong with him!*（他身上肯定有毛病！） |
+| **gonna** | *going to* | 将要、打算 | *This is **gonna** be awesome!*（这绝对会超赞！） |
+| **wanna** | *want to / want a* | 想要 | *You **wanna** grab some coffee?*（想去整杯咖啡吗？） |
+| **kinda** | *kind of* | 有点儿、算是 | *It's **kinda** complicated.*（这事儿有点复杂。） |
+| **lemme / gimme** | *let me / give me* | 让我 / 给我 | * **Lemme** see.*（让我看看。） / * **Gimme** a break!*（饶了我吧！） |
 
 ---
 
