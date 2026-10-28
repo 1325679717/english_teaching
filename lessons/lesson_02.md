@@ -41,15 +41,24 @@
    `don't wanna be...`（不想成为……），态度坚决又带有委屈的试探感。
 
 ### 🔄 半背半替：1 句变 3 句（直接迁移应用）
+
+> 💡 **自测建议**：先大声朗读纯英文句子，在脑海中尝试自主翻译，再展开下方折叠框核对：
+
 * **变句 1（职场试探·提出全新方案）**：  
-  *What if we try a completely different approach this time?*  
-  （要是我们这次尝试一种完全不同的新方案呢？）
+  *What if we try a completely different approach this time?*
 * **变句 2（生活焦虑·对不确定性的担忧）**：  
-  *What if they don't accept our terms?*  
-  （万一他们不接受我们的合作条件怎么办？）
-* **变句 3（人生选择·摆脱传统预期）**：  
-  *What if I don't wanna follow the traditional path?*  
-  （要是我根本不想走循规蹈矩的传统老路呢？）
+  *What if they don't accept our terms?*
+* **变句 3（人生选择·摆脱传统老路）**：  
+  *What if I don't wanna follow the traditional path?*
+
+<details>
+<summary><b>👉 点击查看 1 变 3 中文参考翻译</b></summary>
+
+* **变句 1**：要是我们这次尝试一种完全不同的新方案呢？
+* **变句 2**：万一他们不接受我们的合作条件怎么办？
+* **变句 3**：要是我根本不想走循规蹈矩的传统老路呢？
+
+</details>
 
 ---
 

@@ -43,12 +43,24 @@
    教材里只教 `some + 复数`（一些），但口语里 `some + 单数名词` 意思是**“某个不知哪来的、不值一提的”**。Monica 加上 `just some guy`，潜台词是：“别起哄！他就是个随便哪来的普通路人同事而已，根本不重要！”
 
 ### 🔄 半背半替：1 句变 3 句（直接迁移应用）
+
+> 💡 **自测建议**：先大声朗读纯英文句子，在脑海中尝试自主翻译，再展开下方折叠框核对：
+
 * **变句 1（同学关系）**：  
-  *She's just someone I went to high school with.*（她只是我高中同学而已。）
+  *She's just someone I went to high school with.*
 * **变句 2（工作工具）**：  
-  *It's just a new tool I've been experimenting with.*（这只是我最近在试用的一款新工具。）
+  *It's just a new tool I've been experimenting with.*
 * **变句 3（合租室友）**：  
-  *He's just some guy I live with.*（他只是一个跟我合租的室友而已。）
+  *He's just some guy I live with.*
+
+<details>
+<summary><b>👉 点击查看 1 变 3 中文参考翻译</b></summary>
+
+* **变句 1**：她只是我高中同学而已。
+* **变句 2**：这只是我最近在试用的一款新工具。
+* **变句 3**：他只是一个跟我合租的室友而已。
+
+</details>
 
 ---
 
