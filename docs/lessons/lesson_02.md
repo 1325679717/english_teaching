@@ -6,16 +6,20 @@
 
 ## 1. 高光微场景 (Bite-Sized Scene)
 
-> **场景背景**：Monica 家客厅。刚刚逃婚、浑身湿透的 Rachel 拿着电话，正艰难地向专横且生气的父亲解释自己为什么逃婚。
+> **场景背景**：Monica 家客厅。刚刚逃婚、浑身湿透的 Rachel 拿着电话，正艰难地向专横且生气的父亲解释自己为什么逃婚。请**先不看中文，尝试自己大声朗读并理解**：
 
 **Rachel**: Daddy, listen to me! All my life, everyone has always told me, "You're a shoe!"  
-*(译文：爸爸，听我说！我这一辈子，所有人都在跟我说：“你就是一只鞋子！”)*
-
 **Rachel**: And then today I just stopped and said, **"What if I don't wanna be a shoe?"**  
-*(译文：然后今天我突然停下来对自己说：“要是……我根本不想当一只鞋子呢？”)*
-
 **Rachel**: **What if I wanna be a purse, you know? Or a hat?**  
-*(译文：万一我想当个钱包呢？或者当一顶帽子？)*
+
+<details>
+<summary><b>👉 点击查看对白中文参考翻译（先自己尝试翻译）</b></summary>
+
+* **Rachel**: 爸爸，听我说！我这一辈子，所有人都在跟我说：“你就是一只鞋子！”
+* **Rachel**: 然后今天我突然停下来对自己说：“要是……我根本不想当一只鞋子呢？”
+* **Rachel**: 万一我想当个钱包呢？或者当一顶帽子？
+
+</details>
 
 ---
 
@@ -89,3 +93,4 @@ Rachel 尝试用“我不做鞋子、要做帽子”来比喻自己不想做富�
   用 `What if...` 抛出建议，不带强制命令口吻，给所有人留足台阶，情商极高！
 
 </details>
+

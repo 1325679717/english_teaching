@@ -6,16 +6,20 @@
 
 ## 1. 高光微场景 (Bite-Sized Scene)
 
-> **场景背景**：Central Perk 咖啡馆沙发区。Monica 即将跟一个男人吃晚饭，朋友们围坐一团极力八卦盘问。
+> **场景背景**：Central Perk 咖啡馆沙发区。Monica 即将跟一个男人吃晚饭，朋友们围坐一团极力八卦盘问。请**先不看中文，尝试自己大声朗读并理解**：
 
 **Monica**: There's nothing to tell! **He's just some guy I work with!**  
-*(译文：真没什么好说的！他只是跟我一起工作的一个普通同事而已！)*
-
 **Joey**: C'mon, you're going out with the guy! **There's gotta be something wrong with him!**  
-*(译文：得了吧，你都跟他约会了！他身上肯定哪儿有问题！)*
-
 **Chandler**: Sounds like a date to me.  
-*(译文：在我听来，这就是约会。)*
+
+<details>
+<summary><b>👉 点击查看对白中文参考翻译（先自己尝试翻译）</b></summary>
+
+* **Monica**: 真没什么好说的！他只是跟我一起工作的一个普通同事而已！
+* **Joey**: 得了吧，你都跟他约会了！他身上肯定哪儿有问题！
+* **Chandler**: 在我听来，这就是约会。
+
+</details>
 
 ---
 
