@@ -11,14 +11,16 @@
 > 🎧 **微场景原声磨耳朵**（点击播放完整微对话原声）：  
 > <audio controls preload="none" src="media/audio/s01e01_scene_07.mp3"></audio>
 
-**Joey**: Ross, there are a lot of flavors out there! This is the best thing that ever happened to you! **Grab a spoon!**  
+**Joey**: Lemme tell you something, Ross. There's lots of flavors out there! There's Rocky Road, and Cookie Dough... This is the best thing that ever happened to you!  
+**Joey**: You got married, you were, like, what, eight? Welcome back to the world! **Grab a spoon!**  
 **Ross**: **I honestly don't know if I'm hungry or horny.**  
 **Chandler**: Stay out of my freezer!  
 
 <details>
 <summary><b>👉 点击展开微场景中文参考翻译（先自己尝试翻译）</b></summary>
 
-* **Joey**: Ross，外面有那么多口味呢！这可是发生在你身上最好的事！快拿好你的勺子（行动起来）！
+* **Joey**: 让我告诉你一件事，Ross。外面有大把口味呢！石板街味、曲奇面团味……这可是发生在你身上最好的事！
+* **Joey**: 你结婚的时候才多大，八岁吗？欢迎重回真实世界！快拿好你的勺子（行动起来）！
 * **Ross**: 说实话，我真搞不清自己到底是饿了还是欲求不满了。
 * **Chandler**: 离我的冰箱冷冻室远点！
 

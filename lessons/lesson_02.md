@@ -11,16 +11,16 @@
 > 🎧 **微场景原声磨耳朵**（点击播放完整微对话原声）：  
 > <audio controls preload="none" src="media/audio/s01e01_scene_02.mp3"></audio>
 
-**Rachel**: Daddy, listen to me! All my life, everyone has always told me, "You're a shoe!"  
-**Rachel**: And then today I just stopped and said, **"What if I don't wanna be a shoe?"**  
-**Rachel**: **What if I wanna be a purse, you know? Or a hat?**  
+**Rachel**: C'mon Daddy, listen to me! All of my life, everyone has always told me, "You're a shoe! You're a shoe, you're a shoe, you're a shoe!"  
+**Rachel**: And then today I just stopped and I said, **"What if I don't wanna be a shoe?"**  
+**Rachel**: **"What if I wanna be a purse, you know? Or a hat? ... It's a metaphor, Daddy!"**  
 
 <details>
 <summary><b>👉 点击查看对白中文参考翻译（先自己尝试翻译）</b></summary>
 
-* **Rachel**: 爸爸，听我说！我这一辈子，所有人都在跟我说：“你就是一只鞋子！”
+* **Rachel**: 爸爸，听我说！我这一辈子，所有人都在跟我说：“你就是一只鞋子！你就是只鞋子，你就是只鞋子，你就是只鞋子！”
 * **Rachel**: 然后今天我突然停下来对自己说：“要是……我根本不想当一只鞋子呢？”
-* **Rachel**: 万一我想当个钱包呢？或者当一顶帽子？
+* **Rachel**: 万一我想当个钱包呢？或者当一顶帽子？……这是个隐喻，爸爸！
 
 </details>
 
