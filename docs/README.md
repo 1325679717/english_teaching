@@ -52,6 +52,7 @@ english_teaching/
 
 * **[lesson_01.md](lessons/lesson_01.md)**：*Lesson 01 · 撇清八卦与普通同事*（*"He's just some guy I work with!"*）
 * **[lesson_02.md](lessons/lesson_02.md)**：*Lesson 02 · 逃婚新娘与独立宣言*（*"What if I don't wanna be a shoe?"*）
+* **[lesson_03.md](lessons/lesson_03.md)**：*Lesson 03 · 面对失恋与毒舌安慰*（*"Grab a spoon!"*）
 * *(后续课时持续按微课标准更新……)*
 
 ---
