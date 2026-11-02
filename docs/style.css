@@ -582,6 +582,29 @@ body {
   padding-bottom: 8px;
 }
 
+/* Audio Player */
+.markdown-body audio {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: 40px;
+  margin: 10px 0 12px;
+  border-radius: 20px;
+  outline: none;
+}
+
+.markdown-body audio::-webkit-media-controls-panel {
+  background-color: var(--bg-subtle);
+}
+
+[data-theme="dark"] .markdown-body audio {
+  filter: invert(0.9) hue-rotate(180deg);
+}
+
+[data-theme="sepia"] .markdown-body audio {
+  filter: sepia(0.35);
+}
+
 .markdown-body hr {
   margin: 2em 0;
   border: none;

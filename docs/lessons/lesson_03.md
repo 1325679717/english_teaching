@@ -8,6 +8,9 @@
 
 > **场景背景**：Central Perk 咖啡馆沙发区。Ross 因刚离婚痛苦不堪，觉得自己这辈子再也无法爱上别人。Joey 用冰淇淋口味作比喻劝他振作重返单身世界，Chandler 适时冷幽默补刀。请**先不看中文，尝试自己大声朗读并理解**：
 
+> 🎧 **微场景原声磨耳朵**（点击播放完整微对话原声）：  
+> <audio controls preload="none" src="media/audio/s01e01_scene_07.mp3"></audio>
+
 **Joey**: Ross, there are a lot of flavors out there! This is the best thing that ever happened to you! **Grab a spoon!**  
 **Ross**: **I honestly don't know if I'm hungry or horny.**  
 **Chandler**: Stay out of my freezer!  
@@ -26,7 +29,9 @@
 ## 2. 核心黄金句法透视
 
 ### 🌟 核心原句 1（老友记封神隐喻）
-> **"Grab a spoon!"**
+> **"Grab a spoon!"**  
+> 🎧 **单句原声精听**：  
+> <audio controls preload="none" src="media/audio/s01e01_chunk_03_spoon.mp3"></audio>
 
 * **字面含义**：拿起勺子！
 * **地道文化隐喻**：Joey 把世界上的单身女性比作冰淇淋的各种口味（香草、巧克力、薄荷），劝 Ross 别死守一棵树，赶紧“拿起勺子大吃特吃（投入约会、享受新生活、重出江湖）”。
@@ -35,7 +40,9 @@
 ---
 
 ### 🌟 核心原句 2（高情商表达不确定）
-> **"I honestly don't know if I'm hungry or horny."**
+> **"I honestly don't know if I'm hungry or horny."**  
+> 🎧 **单句原声精听**：  
+> <audio controls preload="none" src="media/audio/s01e01_chunk_03_hungry.mp3"></audio>
 
 ### 🧩 骨架拆装积木图
 * **主句核心主干**：`I` (主语) + `don't know` (谓语动词) + `if 从句` (从句充当宾语)  
@@ -108,3 +115,4 @@
   `I honestly don't know if...` 稳稳立在最前面，后面接完整的陈述句 `we are ready`（主系表），既坦率承认风险，又显得极有情商！
 
 </details>
+

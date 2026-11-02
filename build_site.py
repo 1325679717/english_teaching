@@ -121,8 +121,8 @@ def build_target(target_dir):
         elif os.path.isfile(src):
             shutil.copy2(src, dst)
 
-    # 2. Copy markdown content directories
-    for content_dir in ["guides", "cases", "lessons"]:
+    # 2. Copy markdown content & media directories
+    for content_dir in ["guides", "cases", "lessons", "media"]:
         src = os.path.join(BASE_DIR, content_dir)
         dst = os.path.join(target_dir, content_dir)
         if os.path.isdir(src):

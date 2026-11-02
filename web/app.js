@@ -325,6 +325,14 @@ function renderMarkdown(rawMd) {
 
   elements.articleContent.innerHTML = html;
 
+  // Post-process: normalize media paths if written with relative '../'
+  elements.articleContent.querySelectorAll('audio, audio source').forEach(el => {
+    let src = el.getAttribute('src');
+    if (src && src.startsWith('../media/')) {
+      el.setAttribute('src', src.replace(/^\.\.\/media\//, 'media/'));
+    }
+  });
+
   // Post-process: wrap tables for horizontal swipe
   elements.articleContent.querySelectorAll('table').forEach(table => {
     if (!table.parentElement.classList.contains('table-wrapper')) {

@@ -56,6 +56,15 @@ class ReadingServerHandler(SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=WEB_DIR, **kwargs)
 
+    def translate_path(self, path):
+        # Decode and clean path
+        clean_path = urllib.parse.unquote(path).split('?', 1)[0].split('#', 1)[0]
+        # Allow serving media, markdown docs, and data directly from BASE_DIR
+        for prefix in ['/media/', '/guides/', '/cases/', '/lessons/', '/data/']:
+            if clean_path.startswith(prefix):
+                return os.path.join(BASE_DIR, clean_path.lstrip('/'))
+        return super().translate_path(path)
+
     def do_GET(self):
         parsed = urllib.parse.urlparse(self.path)
         path = parsed.path

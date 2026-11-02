@@ -8,6 +8,9 @@
 
 > **场景背景**：Monica 家客厅。刚刚逃婚、浑身湿透的 Rachel 拿着电话，正艰难地向专横且生气的父亲解释自己为什么逃婚。请**先不看中文，尝试自己大声朗读并理解**：
 
+> 🎧 **微场景原声磨耳朵**（点击播放完整微对话原声）：  
+> <audio controls preload="none" src="media/audio/s01e01_scene_02.mp3"></audio>
+
 **Rachel**: Daddy, listen to me! All my life, everyone has always told me, "You're a shoe!"  
 **Rachel**: And then today I just stopped and said, **"What if I don't wanna be a shoe?"**  
 **Rachel**: **What if I wanna be a purse, you know? Or a hat?**  
@@ -26,7 +29,9 @@
 ## 2. 核心黄金句法透视
 
 ### 🌟 核心原句
-> **"What if I don't wanna be a shoe?"**
+> **"What if I don't wanna be a shoe?"**  
+> 🎧 **单句原声精听**：  
+> <audio controls preload="none" src="media/audio/s01e01_chunk_02.mp3"></audio>
 
 ### 🧩 骨架拆装积木图
 * **引导句型框架**：`What if + 完整句子`  

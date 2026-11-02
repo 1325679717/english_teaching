@@ -8,6 +8,9 @@
 
 > **场景背景**：Central Perk 咖啡馆沙发区。Monica 即将跟一个男人吃晚饭，朋友们围坐一团极力八卦盘问。请**先不看中文，尝试自己大声朗读并理解**：
 
+> 🎧 **微场景原声磨耳朵**（点击播放完整微对话原声）：  
+> <audio controls preload="none" src="media/audio/s01e01_scene_01.mp3"></audio>
+
 **Monica**: There's nothing to tell! **He's just some guy I work with!**  
 **Joey**: C'mon, you're going out with the guy! **There's gotta be something wrong with him!**  
 **Chandler**: Sounds like a date to me.  
@@ -26,7 +29,9 @@
 ## 2. 核心黄金句法透视
 
 ### 🌟 核心原句
-> **"He's just some guy I work with!"**
+> **"He's just some guy I work with!"**  
+> 🎧 **单句原声精听**：  
+> <audio controls preload="none" src="media/audio/s01e01_chunk_01.mp3"></audio>
 
 ### 🧩 骨架拆装积木图
 * **核心主干**：`He` (主语) + `'s` (系动词) + `just some guy` (表语)  
