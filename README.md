@@ -48,12 +48,19 @@ english_teaching/
 ---
 
 ### 3. [《老友记》精萃微课 (lessons/)](lessons/)
-> **原则**：拒绝全剧本覆盖的沉重压力，每课只聚焦 **1 个高光微场景（30~50 词，3 句核心对话）**，每次 5 分钟吃透 1 个地道黄金表达。
+> **原则**：拒绝全剧本覆盖的沉重压力，每课只聚焦 **1 个高光微场景（30~50 词）**，每次 5 分钟吃透 1 个地道黄金表达。
+> **第一季第一集 (S01E01) 完整精读微课系列**：
 
 * **[lesson_01.md](lessons/lesson_01.md)**：*Lesson 01 · 撇清八卦与普通同事*（*"He's just some guy I work with!"*）
 * **[lesson_02.md](lessons/lesson_02.md)**：*Lesson 02 · 逃婚新娘与独立宣言*（*"What if I don't wanna be a shoe?"*）
 * **[lesson_03.md](lessons/lesson_03.md)**：*Lesson 03 · 面对失恋与毒舌安慰*（*"Grab a spoon!"*）
-* *(后续课时持续按微课标准更新……)*
+* **[lesson_04.md](lessons/lesson_04.md)**：*Lesson 04 · 至暗时刻与好友毒舌*（*"This guy says hello, I wanna kill myself."*）
+* **[lesson_05.md](lessons/lesson_05.md)**：*Lesson 05 · 组装家具与逃婚后遗症*（*"I was kinda supposed to be headed for Aruba..."*）
+* **[lesson_06.md](lessons/lesson_06.md)**：*Lesson 06 · 餐厅约会与破冰试探*（*"How did you get through it?"*）
+* **[lesson_07.md](lessons/lesson_07.md)**：*Lesson 07 · 手撕渣男套路与情感雷达*（*"Of course it was a line!"*）
+* **[lesson_08.md](lessons/lesson_08.md)**：*Lesson 08 · 独立成人礼·怒剪信用卡*（*"Welcome to the real world! It sucks. You're gonna love it!"*）
+* **[lesson_09.md](lessons/lesson_09.md)**：*Lesson 09 · 深夜谈心与初次试探*（*"Do you think it would be okay if I asked you out?"*）
+* **[lesson_10.md](lessons/lesson_10.md)**：*Lesson 10 · 打工人初体验与咖啡馆彩蛋*（*"Did you make it, or are you just serving it?"*）
 
 ---
 
